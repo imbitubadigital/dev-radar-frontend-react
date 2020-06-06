@@ -5,6 +5,10 @@
 Implementação realizada por: **Antonio Joaquim Fernandes**
 - Contato: **imbitubadigital@gmail.com**
 
+## Vídeo da Aplicação
+ [CLIQUE AQUI E ASSISTA O VÍDEO DESMONSTRATIVO](https://www.youtube.com/watch?v=jgRliPP8cWU)
+
+
 ## Especificações:
 
 Projeto idealizado durante a Semana Oministck 10 da Rocketseat, tendo como objetivo o desenvolvimento do **Front-end React**, da aplicação **Dev Radar** conforme as regras de negócios implementadas no [Beckend](https://github.com/imbitubadigital/beckend-dev-radar) da aplicação .
