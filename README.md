@@ -1,44 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dev Radar - Front-end React
 
-## Available Scripts
+![](assets/demo.jpg)
 
-In the project directory, you can run:
+Implementação realizada por: **Antonio Joaquim Fernandes**
+- Contato: **imbitubadigital@gmail.com**
 
-### `yarn start`
+## Especificações:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Projeto idealizado durante a Semana Oministck 10 da Rocketseat, tendo como objetivo o desenvolvimento do **Front-end React**, da aplicação **Dev Radar** conforme as regras de negócios implementadas no [Beckend](https://github.com/imbitubadigital/beckend-dev-radar) da aplicação .
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+## Desafio Pessoal
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Como desafio pessoal foi integrado:
 
-### `yarn build`
+- Edição das Tecnologias
+- Funcionalidade para deletar Dev
+- typescript ao projeto
+- hooks de contexto
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Beckend da Aplicação
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+[Clique aqui](https://github.com/imbitubadigital/beckend-dev-radar) para visualizar e baixar o **Backend** da aplicação desenvolvido em **Node com Express**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### Projeto Aplicativo Mobile - React Native
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[Clique aqui](https://github.com/imbitubadigital/dev-radar-mobile) para visualizar e baixar o projeto do aplicativo mobile desenvolvido em **React Native**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
